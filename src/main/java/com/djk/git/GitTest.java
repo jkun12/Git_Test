@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println(" 第三代版本 Git ");
         System.out.println(" 第四代版本 Git hot-fix 版本 ");
         System.out.println(" 第四点五代版本 Git master 版本 ");
+        System.out.println("测试合并冲突 master 分支");
     }
 }
