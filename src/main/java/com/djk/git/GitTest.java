@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello Git ! ");
         System.out.println(" 第二代版本 Git ");
         System.out.println(" 第三代版本 Git ");
+        System.out.println(" 第四代版本 Git hot-fix 版本 ");
     }
 }
